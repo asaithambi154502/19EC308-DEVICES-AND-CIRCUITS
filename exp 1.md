@@ -71,6 +71,6 @@ Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 
 
 # RESULT
-1. Forward resistance of PN diode = --------------------
-2. Reverse resistance of PN diode = --------------------
-3. Cut in Voltage of PN diode = -------------------
+1. Forward resistance of PN diode = 0.125 ohm
+2. Reverse resistance of PN diode = 1 ohm 
+3. Cut in Voltage of PN diode = 0.5 v
